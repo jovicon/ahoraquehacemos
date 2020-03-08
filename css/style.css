@@ -1,3 +1,7 @@
 .overlay1::before {
     background:#000;
 }
+
+.wow {
+  visibility: hidden;
+}
